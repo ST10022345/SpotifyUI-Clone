@@ -14,7 +14,7 @@ Clone the Repository: Clone this repository to your local machine using the foll
 bash
 Copy code
 git clone https://github.com/ST10022345/SpotifyUI-Clone
-Open in Android Studio: Open the project in Android Studio by selecting the wishlist-app folder.
+Open in Android Studio: Open the project in Android Studio by selecting the MusicUI folder.
 
 Build and Run: Build and run the app on your Android device or emulator.
 
